@@ -1,0 +1,20 @@
+{
+  "adb_path": "platform-tools/adb.exe",
+  "device": "127.0.0.1:16384",
+  "threshold": 0.8,
+  "scales": [
+    1.0,
+    0.95,
+    1.05,
+    0.9,
+    1.1
+  ],
+  "max_steps": 300,
+  "max_tries": 3,
+  "delay": 1.0,
+  "dot_tap_offset": [
+    -0.03,
+    0.04
+  ],
+  "ignore_regions": []
+}

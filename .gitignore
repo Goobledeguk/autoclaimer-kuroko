@@ -1,0 +1,6 @@
+build/
+dist/ 
+autoclaim.py
+autoclaim.spec
+build.bat
+
